@@ -2,6 +2,8 @@
 You will get the complete programs of DSA here in C/C++
 
           .... I will update this soon ....
+          
+          .... I will use both C and C++ but mostly in C ....
 
 - Topic are:-
 
